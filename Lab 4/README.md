@@ -13,3 +13,7 @@ This object-oriented program is solving aspects of a video channel platform (e.g
   - shows that a channel may be linked to multiple followers (e.g., channel ch2 followed by f1 and f2), whereas each follower may be linked to multiple channels (e.g., f2 follows ch1 and ch2).
 ![4 2](https://user-images.githubusercontent.com/90284881/148714802-2d8a9d7b-3ffd-4485-9768-1d230c8ef5c3.png)
 
+- Each video channel ***follower*** is characterized by its name and can be linked to a list of channels. Each follower should be kept in synch with each of the channel it follows, whenever a channel update occurs. Specifically, there are two kinds of channel followers:
+  - A channel monitor follows a **list of channels**. When a monitor is first created, it is specified with the maximum number of channels allowed to follow. 
+    For each of the channel it follows, the channel maintains a list of statistical data (updated as soon as a subscriber of the same channel watched one of its released videos): number of views, maximum watch time, and average watch time.
+
