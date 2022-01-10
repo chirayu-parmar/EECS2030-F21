@@ -1,4 +1,4 @@
-## Lab 1 is APPLE AppStore Problem
+## Lab 1 is The APPLE AppStore Problem
 **Lab design by Professor Chen-Wei(Jackie) Wang**
 
 This object-oriented program is solving a simplified AppStore (the Apple iOS counterpart of Google Play store) problem, where a list of apps is available for downloads by registered accounts, whose owners may submit rating scores to some downloaded apps:
