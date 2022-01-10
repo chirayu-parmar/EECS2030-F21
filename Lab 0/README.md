@@ -1,1 +1,1 @@
-## Lab 0 APPLE REFURBISHED STORE Problem.
+## Lab 0 The APPLE REFURBISHED STORE Problem.
