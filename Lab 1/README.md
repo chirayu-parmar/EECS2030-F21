@@ -9,5 +9,5 @@
 
 ###### List of Apps in the Canadian AppStore
 ![Lab 1 1](https://user-images.githubusercontent.com/90284881/148710452-f593f6d2-f0c5-4888-9366-2833d935cbec.png)
-##### An App Available in the AppStore
+###### An App Available in the AppStore
 ![Lab 1 2](https://user-images.githubusercontent.com/90284881/148710455-4102891e-dfd2-438b-8e3c-4c5c2856ef04.png)
