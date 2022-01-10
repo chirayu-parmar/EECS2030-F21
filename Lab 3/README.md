@@ -12,5 +12,3 @@ This object-oriented program is solving a simplified building design problem, wh
 
 ###### An Example 3-Floor Building Blueprint
 ![3 1](https://user-images.githubusercontent.com/90284881/148714237-56426821-bfe3-43b4-8d7e-577ea5895f74.png)
-
-
