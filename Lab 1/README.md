@@ -7,6 +7,6 @@
 - Each **app store** is characterized by their branch name (e.g.,**Canada, UK**) and a list of available apps. When creating an app store object, an input integer is supplied to specify the maximum number of available apps allowed. You can assume that names of all available apps are unique (without duplicates). Given the name of an app, if it exists, one may retrieve the corresponding app object. Given a user-specified number (assumed to be non-negative), we may retrieve the information of the list of available apps which are stable: each of such apps has its number of updates at least as many as (larger than or equal to) the specified input number.
 - Each registered account is characterized by its account owner name, the store it is linked to, the list of downloaded apps, and its status. The maximum number of downloads allowed for an app account is always 50. An account's status (represented by the return value of the **toString** method) reports whether or not the last invoked mutator method (e.g.,download an app, uninstall an app, submit a rating score to some app) results in an error. Given an account object, we may either inquire the names (String[]) or the corresponding app objects (App[]) available in its linked app store.
 
-######List of Apps in the Canadian AppStore
+#####List of Apps in the Canadian AppStore
 ![Lab 1 1](https://user-images.githubusercontent.com/90284881/148710452-f593f6d2-f0c5-4888-9366-2833d935cbec.png)
 ![Lab 1 2](https://user-images.githubusercontent.com/90284881/148710455-4102891e-dfd2-438b-8e3c-4c5c2856ef04.png)
