@@ -1,4 +1,4 @@
-## Lab 2 is The Building Design Problem
+## Lab 3 is The Building Design Problem
 **Lab design by Professor Chen-Wei(Jackie) Wang**
 
 This object-oriented program is solving a simplified building design problem, where a building blueprint consists of plans for floors, and each floor plan contains specifications of various units.
